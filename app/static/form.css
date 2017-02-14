@@ -1,0 +1,28 @@
+input{
+    width:280px;
+    height:25px;
+}
+
+textarea{
+	width:330px;
+    height:100px;
+}
+    
+label{
+    font-weight:bold;
+}
+
+.alert{
+    color:red;
+    display:inline-block;
+    font-weight:bold;
+}
+
+button{
+	color: white;
+	background-color:#1E90FF;
+	padding: 6px 24px;
+	cursor:pointer;
+    border-radius:6px;
+	border:1px solid #dcdcdc;
+}
